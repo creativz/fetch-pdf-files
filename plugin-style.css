@@ -1,0 +1,17 @@
+.pdf-links-container {
+    padding: 2rem 0;
+}
+
+.pdf-links a {
+    background-color: whitesmoke;
+    padding: 1rem;
+    margin-bottom: 10px;
+    display: block;
+    transition: all .3s ease-in-out;
+    font-weight: bold;
+}
+
+.pdf-links a:hover {
+    background-color: #1779ba;
+    color: white;
+}
